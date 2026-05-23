@@ -1,4 +1,4 @@
-# AI Resume Analyzer and Candidate Ranking System using NLP
+# AI Resume Analyzer using NLP
 
 An AI-powered Resume Analyzer developed using Python, Flask, and Natural Language Processing (NLP) that analyzes resumes, extracts skills, calculates ATS scores, compares resumes with job descriptions, and ranks candidates intelligently.
 
